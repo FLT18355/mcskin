@@ -1,0 +1,239 @@
+{
+    "serialize_name": "RedNeko",
+    "localization_name": "RedNeko",
+    "skins": [
+        {
+            "localization_name": "alex_James",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_15th",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-15th.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_MCC_h",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-15thMCC-h.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_MCC_n",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-15thMCC-n.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_C",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-C.png",
+            "cape": "CCP.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_CPR_1",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-CPR-1.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_CPR_2",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-CPR-2.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_TK",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-TK.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_TP",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-TP.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_V",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-V.png",
+            "cape": "V.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_VA",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-VA.png",
+            "cape": "VA.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_ZH",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-ZH.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_GC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-GC.png",
+            "cape": "GC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_P",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-P.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_JB",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F-JB.png",
+            "cape": "JB.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_M",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "M.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_O",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "O.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_RBCC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "RBCC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_PJC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "PJC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_XGC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "XGC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_BC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "BC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_RC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "RC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_BP",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "BP.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_HS",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "HS.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_IG",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "IG.png",
+            "type": "free"
+        },
+			  {
+            "localization_name": "alex_James_CC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "CC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "alex_James_new",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F_new.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "penguin_",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "penguin.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "doll1",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "doll1.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "doll2",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "doll2.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "doll3",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "doll3.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "doll4",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "doll4.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "doll5",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "doll5.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "Earth",
+            "geometry": "geometry.EarthSkin.earth",
+            "texture": "earthskin.png",
+            "type": "free"
+       },
+       {
+            "localization_name": "umu",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "非常眼熟的皮肤.png",
+            "type": "free"
+       },
+       {
+            "localization_name": "Earth B",
+            "geometry": "geometry.EarthSkin.earth",
+            "texture": "earthskin B.png",
+            "cape": "XGC.png",
+            "type": "free"
+       }
+    ]
+}
