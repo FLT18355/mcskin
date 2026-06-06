@@ -175,10 +175,24 @@
             "type": "free"
         },
         {
+            "localization_name": "alex_James_MTC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "F.png",
+            "cape": "MTC.png",
+            "type": "free"
+        },
+        {
             "localization_name": "AR_CC",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "AR.png",
             "cape": "CC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "AR_MTC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "AR.png",
+            "cape": "MTC.png",
             "type": "free"
         },
         {
