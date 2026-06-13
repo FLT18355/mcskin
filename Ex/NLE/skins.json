@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "[XXVPNXX]ss_s8lehun_skin",
+      "geometry": "geometry.ss_s8lehun_skin",
+      "texture": "ss_s8lehun_skin.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "[XXVPNXX]ss_s8lehun_skin",
+  "localization_name": "[XXVPNXX]ss_s8lehun_skin"
+}
