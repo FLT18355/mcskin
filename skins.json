@@ -189,6 +189,13 @@
             "type": "free"
         },
         {
+            "localization_name": "AR_CCC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "AR.png",
+            "cape": "CCC.png",
+            "type": "free"
+        },
+        {
             "localization_name": "AR_MTC",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "AR.png",
