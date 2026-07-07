@@ -203,6 +203,13 @@
             "type": "free"
         },
         {
+            "localization_name": "AR_TTC",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "AR.png",
+            "cape": "TTC.png",
+            "type": "free"
+        },
+        {
             "localization_name": "alex_James_new",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "F_new.png",

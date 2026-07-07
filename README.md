@@ -1,5 +1,5 @@
 Minecraft - SkinPack By FLT18355
-V26.6.13
+V26.7.7
 
 > FLT18355的*MC*皮肤包
 > 欢迎使用
