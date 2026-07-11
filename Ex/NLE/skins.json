@@ -1,12 +1,1 @@
-{
-  "skins": [
-    {
-      "localization_name": "[XXVPNXX]ss_s8lehun_skin",
-      "geometry": "geometry.ss_s8lehun_skin",
-      "texture": "ss_s8lehun_skin.png",
-      "type": "free"
-    }
-  ],
-  "serialize_name": "[XXVPNXX]ss_s8lehun_skin",
-  "localization_name": "[XXVPNXX]ss_s8lehun_skin"
-}
+{"skins":[{"localization_name":"dasxc","geometry":"geometry.ss_s8lehun_skin","hide_armor":true,"texture":"ss_s8lehun_skin.png","type":"free"},{"localization_name":"eqscx","geometry":"geometry.ss_s8Lolita_skin","hide_armor":true,"texture":"ss_s8Lolita_skin.png","type":"free"},{"localization_name":"hgftr","geometry":"geometry.ss_s8Lolita_skinA","hide_armor":true,"texture":"ss_s8Lolita_skinA.png","type":"free"},{"localization_name":"bvcfer","geometry":"geometry.ss_s8Lolita_skinB","hide_armor":true,"texture":"ss_s8Lolita_skinB.png","type":"free"},{"localization_name":"wqqwe","geometry":"geometry.cs_s8DevilMaid_skin","hide_armor":true,"texture":"cs_s8DevilMaid_skin.png","type":"free"},{"localization_name":"jjhg","geometry":"geometry.cs_s8Undead_skin","hide_armor":true,"texture":"cs_s8Undead_skin.png","type":"free"},{"localization_name":"kkjuy","geometry":"geometry.ss_s8CiMu_skin","hide_armor":true,"texture":"ss_s8CiMu_skin.png","type":"free"},{"localization_name":"nbvgf","geometry":"geometry.ss_s8Witch_skin","hide_armor":true,"texture":"ss_s8Witch_skin.png","type":"free"}],"serialize_name":"4D_skins","localization_name":"4DSkinsChianAsuki"}
