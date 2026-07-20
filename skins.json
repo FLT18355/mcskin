@@ -198,7 +198,16 @@
         {
             "localization_name": "AR_MTC",
             "geometry": "geometry.humanoid.customSlim",
+            "hide_armor": true,
             "texture": "AR.png",
+            "cape": "MTC.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "AH_MTC",
+            "geometry": "geometry.humanoid.customSlim",
+            "hide_armor": true,
+            "texture": "AH.png",
             "cape": "MTC.png",
             "type": "free"
         },
